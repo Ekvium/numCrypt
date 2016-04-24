@@ -1,0 +1,2 @@
+# numCrypt
+Pretty IDs generator
